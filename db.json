@@ -29,11 +29,17 @@
 		"date": "2/20/2019"
 	}
 ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "points": [
+    { "id": 1, 
+     "body": "some comment", 
+     "postId": 1 },
+    { "id": 2,
+     "body": "some comment",
+     "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "ALBERT",
+    "email": "albert@gmail.com",	 
+    "token": "1"
   }
 }
