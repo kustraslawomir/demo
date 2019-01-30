@@ -1,32 +1,32 @@
 {
   "projects": [
 	{
-		address: "Fiacre M Pelchat",
-		date: "2/14/2019"
+		"address": "Fiacre M Pelchat",
+		"date": "2/14/2019"
 	},
 	{
-		address: "46  avenue Jules Ferry",
-		date: "2/15/2019"
+		"address": "46  avenue Jules Ferry",
+		"date": "2/15/2019"
 	},
 	{
-		address: "81  Rue St Ferréol",
-		date: "2/16/2019"
+		"address": "81  Rue St Ferréol",
+		"date": "2/16/2019"
 	},
 	{
-		address: "52  Square de la Couronne",
-		date: "2/17/2019"
+		"address": "52  Square de la Couronne",
+		"date": "2/17/2019"
 	},
 	{
-		address: "26 Cours Marechal-Joffre",
-		date: "2/18/2019"
+		"address": "26 Cours Marechal-Joffre",
+		"date": "2/18/2019"
 	},
 {
-		address: "105  Rue Marie De Médicis",
-		date: "2/19/2019"
+		"address": "105  Rue Marie De Médicis",
+		"date": "2/19/2019"
 	},
 	{
-		address: "116  rue Saint Germain",
-		date: "2/20/2019"
+		"address": "116  rue Saint Germain",
+		"date": "2/20/2019"
 	}
 ],
   "comments": [
